@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Backend development.**
 
-- 💬 Ask me about **C Programming.**
-
 - 📫 How to reach me **vishwaman45@gamail.com**
 
 <h3 align="left">Connect with me:</h3>
