@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishwa R</h1>
 <h3 align="center">A passionate developer from India.</h3>
-<img align="right" alt="coding" width="400" src="https://preview.redd.it/jbcj0uqbihg41.jpg?width=1080&crop=smart&auto=webp&s=7a529d0abe43ab1f3594f59724b2d9072b6ab56b">
+<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=6c09b952dq36lhvtey2iiukmxllzih3ndb1es5thscvauysq&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwaravi&label=Profile%20views&color=0e75b6&style=flat" alt="vishwaravi" /> </p>
 
 - 🌱 I’m currently learning **Backend development.**
